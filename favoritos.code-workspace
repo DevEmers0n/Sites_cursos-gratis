@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Site_Cursos_Gratis-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
